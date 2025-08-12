@@ -13,8 +13,6 @@
 - 日志： talker
 - 路由： go_router
 - 依赖注入： get_it
-- 路由管理： go_router
-- 日志： talker
 - 资源管理： flutter_gen
 - 代码生成： build_runner, freezed, json_serializable
 - 代码风格： lints
@@ -22,8 +20,6 @@
 - 代码质量： dart_code_metrics
 - 代码分析： dart_analyzer
 - 代码格式化： dart_format
-- 代码覆盖率： coverage
-- 代码质量： dart_code_metrics
 
 ## 目录结构
 

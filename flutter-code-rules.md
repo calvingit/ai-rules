@@ -1,4 +1,3 @@
-
 This chapter's content comes from Flutter and third-party library official documentation, describing Dart code standards, Dart 3 new syntax, Flutter application architecture, ChangeNotifier & Provider state management, Mocktail testing and other best practices, for reference only and can be flexibly applied.
 
 ### Effective Dart Rules
