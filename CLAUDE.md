@@ -28,7 +28,7 @@
 - 对复杂任务把工作拆为 **3–5 个阶段**，并把计划写入 `IMPLEMENTATION_PLAN.md`（示例模板见下）。
 - 每个阶段应包含：**目标（Goal）**、**成功准则（Success Criteria）**、**测试用例（Tests）**、**状态（Status）**。
 
-#### IMPLEMENTATION_PLAN.md 示例段落**
+#### IMPLEMENTATION_PLAN.md 示例段落
 
 ```markdown
 ## Stage 1: [Name]
